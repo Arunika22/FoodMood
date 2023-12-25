@@ -3,6 +3,7 @@ It is a project that aims at analysing the food culture of a locality by underst
 
 
 Sentiment Analysis of Reviews(using NLP)
-Dataset
+Dataset.
+
 Zomato Dataset available on Kaggle 
 The dataset contains data of restaurants . It gives us information about reviews of customers.
