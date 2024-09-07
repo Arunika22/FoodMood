@@ -1,4 +1,4 @@
-# Resturant-Review-System
+# Resturant-Review-System : Food Mood
 It is a project that aims at analysing the food culture of a locality by understanding the positive and negative reviews. Major aspects include:
 
 
